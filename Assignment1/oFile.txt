@@ -1,0 +1,43 @@
+********************************************************
+*	PROGRAMMED BY : Milan Bui
+*	CLASS         : CS1B
+*	SECTION       : MW: 6:30p - 8:50p
+*	ASSIGNMENT #1 : Functions and Arrays
+********************************************************
+
+Larger Balance:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1002     Steve Woolston           $   1423.20
+
+Smaller Balance:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1003     Don McBride              $     12.32
+
+Sum of Balance for all persons:
+$   4080.48
+
+Average of Balance for all persons:
+$    408.05
+
+Search Name:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1002     Steve Woolston           $   1423.20
+
+Search Name:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1008     Chris Carroll            $     32.35
+
+Search Name:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1007     Pete McBride             $    500.32
+
+Search Name:
+ID #     NAME                     BALANCE DUE
+____     ____________________     ___________
+1001     Jean Rousseau            $     15.50
+
