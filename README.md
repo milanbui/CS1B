@@ -1,2 +1,6 @@
 # CS1B
-Assignments and Labs for CS1B Fall 2018
+Assignments and Labs  
+  
+Class: Intro to Programming in C++ II  
+Instructor: Oliveira  
+Semester: Fall 2018
