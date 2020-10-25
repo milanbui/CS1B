@@ -1,7 +1,6 @@
 /********************************************************************
  * AUTHOR		: Milan Bui
- * STUDENT ID	: 1129567
- * ASSIGNMENT #1: Functions and Arrays
+ * ASSIGNMENT #1        : Functions and Arrays
  * CLASS		: CS 1B
  * SECTION		: MW: 6:30p - 8:50p
  * DUE DATE		: 14 September 2018
